@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Gabrielle Camille Ferreira</title>
+    <title>Publications | Gabrielle Ferreira</title>
     <link>https://gabriellecamille.github.io/publication/</link>
       <atom:link href="https://gabriellecamille.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -53,10 +53,26 @@
     </item>
     
     <item>
+      <title>O consumo das telenovelas turcas no Brasil: uma análise do comportamento das telespectadoras de Fatmagul</title>
+      <link>https://gabriellecamille.github.io/publication/o-consumo-das-telenovelas-turcas-no-brasil/</link>
+      <pubDate>Tue, 28 Aug 2018 11:04:54 -0300</pubDate>
+      <guid>https://gabriellecamille.github.io/publication/o-consumo-das-telenovelas-turcas-no-brasil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>O fenômeno da ficção televisiva turca: a recepção da telenovela Fatmagul no Brasil</title>
       <link>https://gabriellecamille.github.io/publication/o-fenomeno-da-ficcao-televisiva-turca/</link>
       <pubDate>Wed, 01 Aug 2018 21:48:44 -0300</pubDate>
       <guid>https://gabriellecamille.github.io/publication/o-fenomeno-da-ficcao-televisiva-turca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A narrativa transmidiática e a criação do universo da telenovela infantil Carrossel</title>
+      <link>https://gabriellecamille.github.io/publication/a-narrativa-transmidiatica-e-a-criacao-do-universo-da-telenovela-infantil-carrossel/</link>
+      <pubDate>Thu, 31 May 2018 11:01:57 -0300</pubDate>
+      <guid>https://gabriellecamille.github.io/publication/a-narrativa-transmidiatica-e-a-criacao-do-universo-da-telenovela-infantil-carrossel/</guid>
       <description></description>
     </item>
     
