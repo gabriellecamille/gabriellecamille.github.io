@@ -2,14 +2,14 @@
   "name": "Gabrielle Ferreira",
   "short_name": "Gabrielle Ferreira",
   "lang": "pt",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#795548",
+  "background_color": "#795548",
   "icons": [{
-    "src": "/images/icon_huc66b5dfaefd529cc5c4effbcd5b44f71_245165_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu01a20a46cee2a8f40088c7623befd7da_233447_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_huc66b5dfaefd529cc5c4effbcd5b44f71_245165_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu01a20a46cee2a8f40088c7623befd7da_233447_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
