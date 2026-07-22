@@ -1,0 +1,18 @@
+{
+  "name": "Gabrielle Ferreira",
+  "short_name": "Gabrielle Ferreira",
+  "lang": "en-us",
+  "theme_color": "#795548",
+  "background_color": "#795548",
+  "icons": [{
+    "src": "/images/icon_hu_f46b988ff02622c9.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu_325e3d7516568f12.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
